@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umar Aslam Nawab</h1>
-<h3 align="center">A Up to Snuff geek of Cross-Functional Web & Mobile Application Development</h3>
+<h3 align="center">Snuff geek of Cross-Functional Web & Mobile Application Development</h3>
 
 - 🌱 I’m currently learning **Blockchain, Solidity, NFTs, DeFi, GameFi, DApps,**
 
